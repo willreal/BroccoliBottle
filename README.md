@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠**System Requirements**
+## **System Requirements**
 
 To run BroccoliBottle, your system must meet the following requirements:
 
