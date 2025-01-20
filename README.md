@@ -1,3 +1,6 @@
+
+![broccolibottle](https://github.com/user-attachments/assets/76087a9c-9038-4cfa-860d-89dcbb6248bb)
+
 # BroccoliBottle
 
 **A local, privacy-first productivity SLM task taskbook** that dynamically generates actionable, goal-driven tasks. BroccoliBottle integrates seamlessly with **Markdown-based tools like Obsidian** and runs entirely offline using Microsoft Phi-4 14B via Ollama.
