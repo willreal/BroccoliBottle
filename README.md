@@ -1,10 +1,10 @@
-# 🥦 BroccoliBottle
+# BroccoliBottle
 
 **A smarter, privacy-first productivity assistant** that dynamically generates actionable, goal-driven tasks. Designed for high-performance individuals, BroccoliBottle integrates seamlessly with Markdown-based tools like Obsidian and runs entirely offline using Microsoft Phi-4 via Ollama.
 
 ---
 
-## 🎯 **Features**
+## **Features**
 
 - **Privacy-First:** Runs completely offline using Phi-4 (SLM model) via Ollama.
 - **Goal-Driven Task Suggestions:** Dynamically generates tasks based on your long-term goals.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ **System Requirements**
+## 🛠**System Requirements**
 
 To run BroccoliBottle, your system must meet the following requirements:
 
@@ -34,7 +34,7 @@ To run BroccoliBottle, your system must meet the following requirements:
 
 ---
 
-## 🚀 **Installation**
+## **Installation**
 
 1. **Clone the Repository**
    ```bash
@@ -58,7 +58,7 @@ To run BroccoliBottle, your system must meet the following requirements:
 
 ---
 
-## 🔧 **Customizing the File Path**
+## **Customizing the File Path**
 
 If you prefer to use a custom file location (e.g., a file within Obsidian), update the `TASK_FILE` variable in the `broccoli_bottle.py` script:
 
@@ -68,7 +68,7 @@ TASK_FILE = "/path/to/your/custom/tasks.md"
 
 ---
 
-## ⏰ **Automating the Script**
+## **Automating the Script**
 
 You can automate the script to run at regular intervals, such as every day at 8 AM, every Monday, or whenever you launch Obsidian.
 
@@ -98,7 +98,7 @@ Use tools like **Keyboard Maestro** or **Automator** to trigger the script when 
 
 ---
 
-## 📂 **Example `tasks.md` File**
+## **Example `tasks.md` File**
 
 ```markdown
 # 📅 Daily Tasks
@@ -113,7 +113,7 @@ Use tools like **Keyboard Maestro** or **Automator** to trigger the script when 
 
 ---
 
-## 🧠 **How It Works**
+## **How It Works**
 
 1. **Initialization:** On the first run, BroccoliBottle creates a `tasks.md` file if it doesn’t exist.
 2. **Task Suggestions:** Generates up to 3 new tasks based on your defined goals (or enough to reach 6 total tasks).
@@ -121,19 +121,19 @@ Use tools like **Keyboard Maestro** or **Automator** to trigger the script when 
 
 ---
 
-## 🤝 **Contributing**
+## **Contributing**
 
 Contributions are welcome! If you’d like to improve BroccoliBottle, feel free to open a pull request or submit an issue.
 
 ---
 
-## 📝 **License**
+## **License**
 
 This project is licensed under the MIT License.
 
 ---
 
-## ⚡ **Why BroccoliBottle?**
+## **Why BroccoliBottle?**
 
 Unlike existing tools like OpenAI’s ChatGPT with Tasks, BroccoliBottle is:
 - **Private:** Runs entirely offline.
