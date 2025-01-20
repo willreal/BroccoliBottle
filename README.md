@@ -1,8 +1,8 @@
 # BroccoliBottle
 
-**A smarter, privacy-first productivity assistant** that dynamically generates actionable, goal-driven tasks. BroccoliBottle integrates seamlessly with **Markdown-based tools like Obsidian** and runs entirely offline using Microsoft Phi-4 via Ollama.
+**A local, privacy-first productivity SLM task taskbook** that dynamically generates actionable, goal-driven tasks. BroccoliBottle integrates seamlessly with **Markdown-based tools like Obsidian** and runs entirely offline using Microsoft Phi-4 14B via Ollama.
 
-Much like a head of broccoli, BroccoliBottle is compact, versatile, and packed with value—helping you stay focused and healthy in your productivity habits.
+BroccoliBottle is compact, versatile, and packed with value—helping you stay focused and healthy in your productivity habits. Unlike ChatGPT with Tasks, which currently falls short in many ways, BroccoliBottle goes beyond predefined, static prompts. ChatGPT with Tasks simply runs a preset script intermittently, sending intrusive emails or notifications, and worse, it consumes your precious usage tokens with every run. In contrast, BroccoliBottle is open-source, completely offline, and genuinely actionable—it doesn’t just suggest tasks, it actively updates your tasks.md file, seamlessly integrating into your workflow without interruptions or hidden costs. It’s productivity done right: smarter, quieter, and fully under your control.
 
 ![SCR-20250120-bqgw](https://github.com/user-attachments/assets/11cfb049-9d49-4d02-b051-5ee3294fb739)
 
