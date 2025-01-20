@@ -128,10 +128,14 @@ Use tools like **Keyboard Maestro** or **Automator** to trigger the script when 
 
 ## BroccoliBottle Philosophy
 
-Why "Broccoli"? Because it’s:
-- **Healthy for your productivity:** Keeps you focused and organized.
-- **Compact and efficient:** Like a dense head of broccoli, BroccoliBottle packs a lot into a small, lightweight package.
-- **Versatile:** Easily customizable for any workflow.
+Why "BroccoliBottle"? Because it’s:
+
+- **Nutritious for your productivity:** Like broccoli for your body, BroccoliBottle keeps your workflow healthy and goal-driven.
+- **Compact and contained:** A bottle holds everything together neatly, just like how BroccoliBottle keeps your tasks and goals in one organized place.
+- **Fresh and versatile:** Whether it’s a quick sip of focus or a full meal of productivity, BroccoliBottle adapts to your needs, just like broccoli in any recipe.
+- **Sustainable and self-sufficient:** BroccoliBottle runs offline, just like a reusable bottle that keeps your resources in check.
+
+Think of BroccoliBottle as the perfect blend of structure (the bottle) and growth (the broccoli), giving you everything you need to stay productive and organized without waste.  
 
 ---
 
